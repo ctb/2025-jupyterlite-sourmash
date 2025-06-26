@@ -1,12 +1,12 @@
 # Try Jupyter, powered by JupyterLite
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.org/try-jupyter)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ctb.github.io/2025-jupyterlite-sourmash/)
 
 A tour of Jupyter and IPython, powered by JupyterLite.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyter.org/try-jupyter**
+➡️ **https://ctb.github.io/2025-jupyterlite-sourmash/**
 
 Clicking the link above should load a JupyterLab environment running in your browser. Open the Introductory notebook at `content/Intro.ipynb` to get started.
 
