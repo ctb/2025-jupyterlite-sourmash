@@ -1,0 +1,9 @@
+import sys, glob
+from sourmash.__main__ import main
+
+args = []
+for x in sys.argv[1:]:
+   res = glob.glob(x) or [x]
+   args.extend(res)
+
+main(args)
